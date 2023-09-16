@@ -5,13 +5,16 @@ EX NO: 3
 DATE:2-09-2023
 
 Objective:
+
 To diagnose and resolve common issues in an operating system.
 
 Materials:
+
 Computer with the problematic OS
 Access to user documentation or online resources
 
 Procedure:
+
 1. Identify the Problem:
 Determine the exact nature of the problem. Common issues
 include system crashes, slow performance, software errors, and
@@ -94,4 +97,5 @@ Record the steps you took to troubleshoot and resolve the issue
 for future reference.
 
 Result :
+
 Successfully we done the Troubleshooting OS.
